@@ -20,7 +20,7 @@ To run this project, you'll need to have the following installed:
 
 1. Clone the repository:
    ```bash
-   https://github.com/rishipatel9/rust-todo.git
+   https://github.com/rishipatel9/Cli-todo.git
    cd rust-todo
     ```
 
